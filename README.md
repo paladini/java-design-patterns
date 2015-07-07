@@ -15,7 +15,7 @@ The following design patterns were implemented:
 - Builder - OK
 - Decorator - 
 - State - OK
-- Template 
+- Template - OK
 - Command 
 - Object Null 
 - Iterator 
