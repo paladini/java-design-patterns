@@ -4,11 +4,11 @@ I've implemented some of the most common design patterns based on [Tutorials Poi
 
 The following design patterns were implemented:
 
-- Adapter - 
+- Adapter - OK
 - Factory - OK
 - Abstract Factory - 
 - Strategy - 
-- Composite - 
+- Composite - OK
 - Singleton - OK
 - Facade - 
 - Observer - 
