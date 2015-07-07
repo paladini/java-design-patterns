@@ -4,18 +4,29 @@ I've implemented some of the most common design patterns based on [Tutorials Poi
 
 The following design patterns were implemented:
 
-- Adapter - OK
-- Factory - OK
+**Creational:**
+
+- [Builder](src/creational/builder) - OK
+- [Factory](src/creational/factory) - OK
+- [Singleton](src/creational/singleton) - OK
+
+**Structural:**
+
+- [Adapter](src/structural/adapter) - OK
+- [Composite](src/structural/composite) - OK
+- [Decorator](src/structural/decorator) - OK 
+
+**Behavioral:**
+
+- [Observer](src/behavioral/observer) - OK 
+- [State](src/behavioral/state) - OK
+- [Strategy](src/behavioral/strategy) - OK
+- [Template](src/behavioral/template) - OK
+
+**Remaining: **
+
 - Abstract Factory - 
-- Strategy - OK
-- Composite - OK
-- Singleton - OK
 - Facade - 
-- Observer - OK 
-- Builder - OK
-- Decorator - OK 
-- State - OK
-- Template - OK
 - Command 
 - Object Null 
 - Iterator 
