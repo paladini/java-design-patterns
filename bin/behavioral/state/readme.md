@@ -1,1 +1,1 @@
-![](state_pattern_uml_diagra.jpg)
+![](state_pattern_uml_diagram.jpg)
