@@ -23,10 +23,11 @@ The following design patterns were implemented:
 - [Strategy](src/behavioral/strategy) - OK
 - [Template](src/behavioral/template) - OK
 
-**Remaining: **
 
-- Abstract Factory - 
-- Facade - 
+**Remaining:**
+
+- Abstract Factory 
+- Facade 
 - Command 
 - Object Null 
 - Iterator 
