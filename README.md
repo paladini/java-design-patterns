@@ -7,7 +7,7 @@ The following design patterns were implemented:
 - Adapter - OK
 - Factory - OK
 - Abstract Factory - 
-- Strategy - 
+- Strategy - OK
 - Composite - OK
 - Singleton - OK
 - Facade - 
