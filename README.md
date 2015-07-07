@@ -11,7 +11,7 @@ The following design patterns were implemented:
 - Composite - OK
 - Singleton - OK
 - Facade - 
-- Observer - 
+- Observer - OK 
 - Builder - OK
 - Decorator - OK 
 - State - OK
