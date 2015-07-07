@@ -13,7 +13,7 @@ The following design patterns were implemented:
 - Facade - 
 - Observer - 
 - Builder - OK
-- Decorator - 
+- Decorator - OK 
 - State - OK
 - Template - OK
 - Command 
